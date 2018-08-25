@@ -1,2 +1,5 @@
 Dat dai ca
 Dang test git de push
+sua cho nay
+xong lai push len vao nhanh Br1
+
